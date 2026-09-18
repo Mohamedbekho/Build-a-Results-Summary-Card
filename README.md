@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-*(Add a screenshot of your finished project here, e.g., screenshot.jpg)*
+![Design preview for the Results summary component coding challenge](./preview.jpg)
 
 ### Links
 
